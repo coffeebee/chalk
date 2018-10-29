@@ -1,0 +1,24 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "my chalk project",
+  "main": "app-a.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chalk-animation": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffeebee/chalk.git"
+  },
+  "author": "skd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coffeebee/chalk/issues"
+  },
+  "homepage": "https://github.com/coffeebee/chalk#readme"
+}
