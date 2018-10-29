@@ -5,7 +5,8 @@
   "main": "app-a.js",
   "dependencies": {
     "chalk": "^2.4.1",
-    "chalk-animation": "^1.6.0"
+    "chalk-animation": "^1.6.0",
+    "express": "^4.16.4"
   },
   "devDependencies": {},
   "scripts": {
